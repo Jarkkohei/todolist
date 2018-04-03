@@ -1,6 +1,8 @@
 <p>php artisan serve</p>
 <p>npm run watch</p>
 
+<p>Using Laravel Collective for forms.</p>
+
 <hr>
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
